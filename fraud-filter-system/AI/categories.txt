@@ -1,0 +1,60 @@
+Architectural Styles = 10
+- Colonial
+- Victorian
+- Tudor
+- Ranch
+- Cape Cod
+- Mediterranean
+- Modern
+- Contemporary
+- Industrial
+- Rustic
+
+Property Types = 11
+- Condominium
+- House and Lot
+- Townhouse
+- Apartment
+- Bungalow
+- Villa
+- Office Space
+- Industrial Space
+- Commercial Lot
+- Land
+- Farm
+- Hotel
+
+Property Category
+- Interior
+- Exterior
+
+Interior Features = 13
+- Living Room
+- Dining Room
+- Kitchen
+- Bedrooms
+- Bathrooms
+- Hallways
+- Stairs
+- Basement
+- Attic
+- Closet
+- Pantry
+- Laundry Room
+- Family Room
+- Office
+
+Exterior Features = 14
+- Lot
+- Facade
+- Roof
+- Windows
+- Doors
+- Porch
+- Patio
+- Deck
+- Balcony
+- Garage
+- Driveway
+- Landscaping
+- Fence
