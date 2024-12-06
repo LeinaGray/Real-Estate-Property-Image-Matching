@@ -1,0 +1,501 @@
+ID,Image Path,Copyright Status,Watermark Status,Exif Status,AI,Authentic
+0,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A1.1.jpg,Medium Risk,With watermark,No Exif Data,49.586495757102966,50.413501262664795
+1,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A1.2.jpg,Medium Risk,With watermark,No Exif Data,91.92940592765808,8.070594072341919
+2,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A1.3.jpg,Medium Risk,With watermark,No Exif Data,1.1064659804105759,98.89352917671204
+3,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A1.4.jpg,Medium Risk,With watermark,No Exif Data,0.000393415211874526,99.99960660934448
+4,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A1.5.jpg,Medium Risk,With watermark,No Exif Data,0.009835670789470896,99.99016523361206
+5,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A10.1.jpg,Medium Risk,Clean,No Exif Data,4.592473432421684,95.40753364562988
+6,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A10.2.jpg,Medium Risk,Clean,No Exif Data,96.93068265914917,3.0693206936120987
+7,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A10.3.jpg,Medium Risk,Clean,No Exif Data,97.32087850570679,2.679118327796459
+8,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A10.4.jpg,Medium Risk,Clean,No Exif Data,97.49541878700256,2.5045888498425484
+9,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A10.5.jpg,Medium Risk,Clean,No Exif Data,92.95811057090759,7.04188272356987
+10,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A100.1.jpg,Medium Risk,Clean,No Exif Data,17.975838482379913,82.0241630077362
+11,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A100.2.jpg,Medium Risk,Clean,No Exif Data,84.84999537467957,15.150009095668793
+12,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A100.3.jpg,Medium Risk,Clean,No Exif Data,99.51916933059692,0.48083607107400894
+13,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A100.4.jpg,Medium Risk,Clean,No Exif Data,96.5347945690155,3.465212881565094
+14,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A100.5.jpg,Medium Risk,Clean,No Exif Data,0.1406898838467896,99.85930323600769
+15,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A1000.1.jpg,Medium Risk,Clean,No Exif Data,87.82192468643188,12.178075313568115
+16,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A1000.2.jpg,Medium Risk,With watermark,No Exif Data,0.04434963047970086,99.95564818382263
+17,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A1000.3.jpg,Medium Risk,Clean,No Exif Data,99.76038336753845,0.23961984552443027
+18,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A1000.4.jpg,Medium Risk,Clean,No Exif Data,89.42251205444336,10.577480494976044
+19,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A1000.5.jpg,Medium Risk,Clean,No Exif Data,76.30317211151123,23.69683086872101
+20,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A101.1.jpg,Medium Risk,Clean,No Exif Data,0.032558670500293374,99.96744394302368
+21,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A101.2.jpg,Medium Risk,Clean,No Exif Data,9.284161776304245,90.7158374786377
+22,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A101.3.jpg,Medium Risk,Clean,No Exif Data,1.6011904925107956,98.3988106250763
+23,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A101.4.jpg,Medium Risk,Clean,No Exif Data,84.84999537467957,15.150009095668793
+24,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A101.5.jpg,Medium Risk,Clean,No Exif Data,99.51916933059692,0.48083607107400894
+25,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A102.1.jpg,Medium Risk,Clean,No Exif Data,0.9123274125158787,99.08767342567444
+26,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A102.2.jpg,Medium Risk,Clean,No Exif Data,2.219758741557598,97.78023958206177
+27,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A102.3.jpg,Medium Risk,Clean,No Exif Data,0.2857509767636657,99.7142493724823
+28,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A102.4.jpg,Medium Risk,Clean,No Exif Data,48.02928268909454,51.97070837020874
+29,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A102.5.jpg,Medium Risk,Clean,No Exif Data,14.148320257663727,85.85168123245239
+30,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A103.1.jpg,Medium Risk,Clean,No Exif Data,21.99564129114151,78.00436615943909
+31,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A103.2.jpg,Medium Risk,Clean,No Exif Data,0.030253667500801384,99.96974468231201
+32,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A103.3.jpg,Medium Risk,Clean,No Exif Data,9.284161776304245,90.7158374786377
+33,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A103.4.jpg,Medium Risk,Clean,No Exif Data,1.6011904925107956,98.3988106250763
+34,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A103.5.jpg,Medium Risk,Clean,No Exif Data,84.84999537467957,15.150009095668793
+35,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A104.1.jpg,Medium Risk,Clean,No Exif Data,21.99564129114151,78.00436615943909
+36,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A104.2.jpg,Medium Risk,Clean,No Exif Data,0.030253667500801384,99.96974468231201
+37,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A104.3.jpg,Medium Risk,Clean,No Exif Data,9.284161776304245,90.7158374786377
+38,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A104.4.jpg,Medium Risk,Clean,No Exif Data,1.6011904925107956,98.3988106250763
+39,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A104.5.jpg,Medium Risk,Clean,No Exif Data,84.84999537467957,15.150009095668793
+40,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A105.1.jpg,Medium Risk,Clean,No Exif Data,0.9123274125158787,99.08767342567444
+41,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A105.2.jpg,Medium Risk,Clean,No Exif Data,2.219758741557598,97.78023958206177
+42,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A105.3.jpg,Medium Risk,Clean,No Exif Data,0.2857509767636657,99.7142493724823
+43,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A105.4.jpg,Medium Risk,Clean,No Exif Data,99.92984533309937,0.07015888695605099
+44,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A105.5.jpg,Medium Risk,Clean,No Exif Data,48.02928268909454,51.97070837020874
+45,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A106.1.jpg,Medium Risk,Clean,No Exif Data,0.7984462194144726,99.20154809951782
+46,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A106.2.jpg,Medium Risk,Clean,No Exif Data,1.6011904925107956,98.3988106250763
+47,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A106.3.jpg,Medium Risk,Clean,No Exif Data,84.84999537467957,15.150009095668793
+48,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A106.4.jpg,Medium Risk,Clean,No Exif Data,99.51916933059692,0.48083607107400894
+49,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A106.5.jpg,Medium Risk,Clean,No Exif Data,96.5347945690155,3.465212881565094
+50,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A107.1.jpg,Medium Risk,Clean,No Exif Data,99.71060156822205,0.28939631301909685
+51,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A107.2.jpg,Medium Risk,Clean,No Exif Data,48.02928268909454,51.97070837020874
+52,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A107.3.jpg,Medium Risk,Clean,No Exif Data,14.148320257663727,85.85168123245239
+53,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A107.4.jpg,Medium Risk,With watermark,No Exif Data,99.99436140060425,0.005639490700559691
+54,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A107.5.jpg,Medium Risk,With watermark,No Exif Data,99.97883439064026,0.021168663806747645
+55,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A108.1.jpg,Medium Risk,Clean,No Exif Data,0.9123274125158787,99.08767342567444
+56,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A108.2.jpg,Medium Risk,Clean,No Exif Data,2.219758741557598,97.78023958206177
+57,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A108.3.jpg,Medium Risk,Clean,No Exif Data,0.2857509767636657,99.7142493724823
+58,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A108.4.jpg,Medium Risk,Clean,No Exif Data,99.92984533309937,0.07015888695605099
+59,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A108.5.jpg,Medium Risk,Clean,No Exif Data,48.02928268909454,51.97070837020874
+60,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A109.1.jpg,Medium Risk,Clean,No Exif Data,96.35655283927917,3.6434482783079147
+61,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A109.2.jpg,Medium Risk,Clean,No Exif Data,99.51916933059692,0.48083607107400894
+62,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A109.3.jpg,Medium Risk,Clean,No Exif Data,96.5347945690155,3.465212881565094
+63,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A109.4.jpg,Medium Risk,Clean,No Exif Data,0.1406898838467896,99.85930323600769
+64,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A109.5.jpg,Medium Risk,Clean,No Exif Data,2.219758741557598,97.78023958206177
+65,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A11.1.jpg,Medium Risk,Clean,No Exif Data,73.95855188369751,26.04144811630249
+66,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A11.2.jpg,Medium Risk,Clean,No Exif Data,96.93068265914917,3.0693206936120987
+67,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A11.3.jpg,Medium Risk,Clean,No Exif Data,97.32087850570679,2.679118327796459
+68,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A11.4.jpg,Medium Risk,Clean,No Exif Data,97.49541878700256,2.5045888498425484
+69,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A11.5.jpg,Medium Risk,Clean,No Exif Data,92.95811057090759,7.04188272356987
+70,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A110.1.jpg,Medium Risk,Clean,No Exif Data,2.603801339864731,97.39620089530945
+71,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A110.2.jpg,Medium Risk,Clean,No Exif Data,79.1856586933136,20.814338326454163
+72,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A110.3.jpg,Medium Risk,Clean,No Exif Data,91.09042286872864,8.90958309173584
+73,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A110.4.jpg,Medium Risk,Clean,No Exif Data,0.024594308342784643,99.9754011631012
+74,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A110.5.jpg,Medium Risk,Clean,No Exif Data,0.40030302479863167,99.59969520568848
+75,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A111.1.jpg,Medium Risk,Clean,No Exif Data,0.010143038525711745,99.98985528945923
+76,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A111.2.jpg,Medium Risk,Clean,No Exif Data,3.396080806851387,96.60391807556152
+77,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A111.3.jpg,Medium Risk,Clean,No Exif Data,0.40826471522450447,99.59173798561096
+78,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A111.4.jpg,Medium Risk,Clean,No Exif Data,8.324238657951355,91.6757583618164
+79,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A111.5.jpg,Medium Risk,Clean,No Exif Data,0.7107083685696125,99.28929209709167
+80,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A112.1.jpg,Medium Risk,Clean,No Exif Data,99.98493194580078,0.015067886852193624
+81,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A112.2.jpg,Medium Risk,Clean,No Exif Data,99.8141884803772,0.18580571049824357
+82,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A112.3.jpg,Medium Risk,Clean,No Exif Data,99.06704425811768,0.9329581633210182
+83,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A112.4.jpg,Medium Risk,Clean,No Exif Data,3.591454029083252,96.40854597091675
+84,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A112.5.jpg,Medium Risk,Clean,No Exif Data,2.558009137842987e-07,100.0
+85,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A113.1.jpg,Medium Risk,Clean,No Exif Data,96.12513780593872,3.874864801764488
+86,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A113.2.jpg,Medium Risk,Clean,No Exif Data,0.37274700589478016,99.62725639343262
+87,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A113.3.jpg,Medium Risk,Clean,No Exif Data,0.03482282627373934,99.96517896652222
+88,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A113.4.jpg,Medium Risk,Clean,No Exif Data,7.651050388813019,92.34894514083862
+89,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A113.5.jpg,Medium Risk,Clean,No Exif Data,0.11988424230366945,99.88011121749878
+90,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A114.1.jpg,Medium Risk,Clean,No Exif Data,99.98493194580078,0.015067886852193624
+91,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A114.2.jpg,Medium Risk,Clean,No Exif Data,99.8141884803772,0.18580571049824357
+92,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A114.3.jpg,Medium Risk,Clean,No Exif Data,99.06704425811768,0.9329581633210182
+93,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A114.4.jpg,Medium Risk,Clean,No Exif Data,3.591454029083252,96.40854597091675
+94,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A114.5.jpg,Medium Risk,Clean,No Exif Data,2.558009137842987e-07,100.0
+95,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A115.1.jpg,Medium Risk,Clean,No Exif Data,1.0637140832841396,98.9362895488739
+96,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A115.2.jpg,Medium Risk,Clean,No Exif Data,22.585467994213104,77.41453647613525
+97,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A115.3.jpg,Medium Risk,Clean,No Exif Data,3.2170958817005157,96.78290486335754
+98,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A115.4.jpg,Medium Risk,Clean,No Exif Data,79.1856586933136,20.814338326454163
+99,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A115.5.jpg,Medium Risk,Clean,No Exif Data,91.09042286872864,8.90958309173584
+100,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A116.1.jpg,Medium Risk,Clean,No Exif Data,99.98493194580078,0.015067886852193624
+101,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A116.2.jpg,Medium Risk,Clean,No Exif Data,99.8141884803772,0.18580571049824357
+102,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A116.3.jpg,Medium Risk,Clean,No Exif Data,99.06704425811768,0.9329581633210182
+103,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A116.4.jpg,Medium Risk,Clean,No Exif Data,3.591454029083252,96.40854597091675
+104,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A116.5.jpg,Medium Risk,Clean,No Exif Data,2.558009137842987e-07,100.0
+105,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A117.1.jpg,Medium Risk,Clean,No Exif Data,0.12757418444380164,99.87242817878723
+106,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A117.2.jpg,Medium Risk,Clean,No Exif Data,0.40826471522450447,99.59173798561096
+107,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A117.3.jpg,Medium Risk,Clean,No Exif Data,8.324238657951355,91.6757583618164
+108,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A117.4.jpg,Medium Risk,Clean,No Exif Data,0.7107083685696125,99.28929209709167
+109,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A117.5.jpg,Medium Risk,Clean,No Exif Data,3.0003631487488747,96.99963331222534
+110,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A118.1.jpg,Medium Risk,Clean,No Exif Data,0.12757418444380164,99.87242817878723
+111,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A118.2.jpg,Medium Risk,Clean,No Exif Data,0.40826471522450447,99.59173798561096
+112,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A118.3.jpg,Medium Risk,Clean,No Exif Data,8.324238657951355,91.6757583618164
+113,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A118.4.jpg,Medium Risk,Clean,No Exif Data,0.7107083685696125,99.28929209709167
+114,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A118.5.jpg,Medium Risk,Clean,No Exif Data,3.0003631487488747,96.99963331222534
+115,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A119.1.jpg,Medium Risk,Clean,No Exif Data,19.69316601753235,80.30683398246765
+116,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A119.2.jpg,Medium Risk,Clean,No Exif Data,91.09042286872864,8.90958309173584
+117,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A119.3.jpg,Medium Risk,Clean,No Exif Data,0.024594308342784643,99.9754011631012
+118,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A119.4.jpg,Medium Risk,Clean,No Exif Data,0.40030302479863167,99.59969520568848
+119,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A119.5.jpg,Medium Risk,Clean,No Exif Data,99.99783039093018,0.0021691314032068476
+120,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A12.1.jpg,Medium Risk,Clean,No Exif Data,94.12855505943298,5.871446430683136
+121,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A12.2.jpg,Medium Risk,Clean,No Exif Data,97.32087850570679,2.679118327796459
+122,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A12.3.jpg,Medium Risk,Clean,No Exif Data,97.49541878700256,2.5045888498425484
+123,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A12.4.jpg,Medium Risk,Clean,No Exif Data,92.95811057090759,7.04188272356987
+124,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A12.5.jpg,Medium Risk,Clean,No Exif Data,99.98297691345215,0.017017377831507474
+125,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A120.1.jpg,Medium Risk,Clean,No Exif Data,31.342795491218567,68.65720748901367
+126,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A120.2.jpg,Medium Risk,Clean,No Exif Data,8.324238657951355,91.6757583618164
+127,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A120.3.jpg,Medium Risk,Clean,No Exif Data,0.7107083685696125,99.28929209709167
+128,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A120.4.jpg,Medium Risk,Clean,No Exif Data,3.0003631487488747,96.99963331222534
+129,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A120.5.jpg,Medium Risk,Clean,No Exif Data,22.585467994213104,77.41453647613525
+130,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A121.1.jpg,Medium Risk,Clean,No Exif Data,99.98493194580078,0.015067886852193624
+131,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A121.2.jpg,Medium Risk,Clean,No Exif Data,99.8141884803772,0.18580571049824357
+132,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A121.3.jpg,Medium Risk,Clean,No Exif Data,99.06704425811768,0.9329581633210182
+133,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A121.4.jpg,Medium Risk,Clean,No Exif Data,3.591454029083252,96.40854597091675
+134,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A121.5.jpg,Medium Risk,Clean,No Exif Data,2.558009137842987e-07,100.0
+135,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A122.1.jpg,Medium Risk,Clean,No Exif Data,85.73659062385559,14.263410866260529
+136,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A122.2.jpg,Medium Risk,Clean,No Exif Data,0.024594308342784643,99.9754011631012
+137,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A122.3.jpg,Medium Risk,Clean,No Exif Data,0.40030302479863167,99.59969520568848
+138,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A122.4.jpg,Medium Risk,Clean,No Exif Data,99.99783039093018,0.0021691314032068476
+139,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A122.5.jpg,Medium Risk,Clean,No Exif Data,99.8141884803772,0.18580571049824357
+140,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A123.1.jpg,Medium Risk,Clean,No Exif Data,0.7984462194144726,99.20154809951782
+141,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A123.2.jpg,Medium Risk,Clean,No Exif Data,1.6011904925107956,98.3988106250763
+142,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A123.3.jpg,Medium Risk,Clean,No Exif Data,84.84999537467957,15.150009095668793
+143,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A123.4.jpg,Medium Risk,Clean,No Exif Data,99.51916933059692,0.48083607107400894
+144,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A123.5.jpg,Medium Risk,Clean,No Exif Data,96.5347945690155,3.465212881565094
+145,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A124.1.jpg,Medium Risk,Clean,No Exif Data,0.01551339082652703,99.98447895050049
+146,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A124.2.jpg,Medium Risk,Clean,No Exif Data,99.92984533309937,0.07015888695605099
+147,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A124.3.jpg,Medium Risk,Clean,No Exif Data,48.02928268909454,51.97070837020874
+148,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A124.4.jpg,Medium Risk,Clean,No Exif Data,14.148320257663727,85.85168123245239
+149,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A124.5.jpg,Medium Risk,With watermark,No Exif Data,99.99436140060425,0.005639490700559691
+150,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A125.1.jpg,Medium Risk,Clean,No Exif Data,0.032558670500293374,99.96744394302368
+151,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A125.2.jpg,Medium Risk,Clean,No Exif Data,9.284161776304245,90.7158374786377
+152,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A125.3.jpg,Medium Risk,Clean,No Exif Data,1.6011904925107956,98.3988106250763
+153,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A125.4.jpg,Medium Risk,Clean,No Exif Data,84.84999537467957,15.150009095668793
+154,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A125.5.jpg,Medium Risk,Clean,No Exif Data,99.51916933059692,0.48083607107400894
+155,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A126.1.jpg,Medium Risk,Clean,No Exif Data,99.98860359191895,0.011393894237698987
+156,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A126.2.jpg,Medium Risk,Clean,No Exif Data,0.1406898838467896,99.85930323600769
+157,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A126.3.jpg,Medium Risk,Clean,No Exif Data,2.219758741557598,97.78023958206177
+158,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A126.4.jpg,Medium Risk,Clean,No Exif Data,0.2857509767636657,99.7142493724823
+159,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A126.5.jpg,Medium Risk,Clean,No Exif Data,99.92984533309937,0.07015888695605099
+160,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A127.1.jpg,Medium Risk,Clean,No Exif Data,17.975838482379913,82.0241630077362
+161,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A127.2.jpg,Medium Risk,Clean,No Exif Data,84.84999537467957,15.150009095668793
+162,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A127.3.jpg,Medium Risk,Clean,No Exif Data,99.51916933059692,0.48083607107400894
+163,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A127.4.jpg,Medium Risk,Clean,No Exif Data,96.5347945690155,3.465212881565094
+164,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A127.5.jpg,Medium Risk,Clean,No Exif Data,0.1406898838467896,99.85930323600769
+165,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A128.1.jpg,Medium Risk,Clean,No Exif Data,1.0637140832841396,98.9362895488739
+166,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A128.2.jpg,Medium Risk,Clean,No Exif Data,22.585467994213104,77.41453647613525
+167,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A128.3.jpg,Medium Risk,Clean,No Exif Data,3.2170958817005157,96.78290486335754
+168,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A128.4.jpg,Medium Risk,Clean,No Exif Data,79.1856586933136,20.814338326454163
+169,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A128.5.jpg,Medium Risk,Clean,No Exif Data,91.09042286872864,8.90958309173584
+170,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A129.1.jpg,Medium Risk,Clean,No Exif Data,35.89223027229309,64.10776972770691
+171,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A129.2.jpg,Medium Risk,Clean,No Exif Data,13.483701646327972,86.51629686355591
+172,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A129.3.jpg,Medium Risk,Clean,No Exif Data,12.56297081708908,87.4370276927948
+173,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A129.4.jpg,Medium Risk,Clean,No Exif Data,0.37274700589478016,99.62725639343262
+174,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A129.5.jpg,Medium Risk,Clean,No Exif Data,0.03482282627373934,99.96517896652222
+175,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A13.1.jpg,Medium Risk,With watermark,No Exif Data,99.99127388000488,0.008729364344617352
+176,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A13.2.jpg,Medium Risk,Clean,No Exif Data,96.93068265914917,3.0693206936120987
+177,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A13.3.jpg,Medium Risk,Clean,No Exif Data,97.32087850570679,2.679118327796459
+178,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A13.4.jpg,Medium Risk,Clean,No Exif Data,97.49541878700256,2.5045888498425484
+179,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A13.5.jpg,Medium Risk,Clean,No Exif Data,92.95811057090759,7.04188272356987
+180,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A130.1.jpg,Medium Risk,Clean,No Exif Data,0.12757418444380164,99.87242817878723
+181,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A130.2.jpg,Medium Risk,Clean,No Exif Data,0.40826471522450447,99.59173798561096
+182,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A130.3.jpg,Medium Risk,Clean,No Exif Data,8.324238657951355,91.6757583618164
+183,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A130.4.jpg,Medium Risk,Clean,No Exif Data,0.7107083685696125,99.28929209709167
+184,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A130.5.jpg,Medium Risk,Clean,No Exif Data,3.0003631487488747,96.99963331222534
+185,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A131.1.jpg,Medium Risk,Clean,No Exif Data,0.43442752212285995,99.56557750701904
+186,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A131.2.jpg,Medium Risk,Clean,No Exif Data,3.9386115968227386,96.06139063835144
+187,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A131.3.jpg,Medium Risk,Clean,No Exif Data,0.02081917191389948,99.97918009757996
+188,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A131.4.jpg,Medium Risk,Clean,No Exif Data,0.4340742714703083,99.56592321395874
+189,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A131.5.jpg,Medium Risk,Clean,No Exif Data,49.272170662879944,50.727832317352295
+190,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A132.1.jpg,Medium Risk,Clean,No Exif Data,0.12757418444380164,99.87242817878723
+191,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A132.2.jpg,Medium Risk,Clean,No Exif Data,0.40826471522450447,99.59173798561096
+192,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A132.3.jpg,Medium Risk,Clean,No Exif Data,8.324238657951355,91.6757583618164
+193,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A132.4.jpg,Medium Risk,Clean,No Exif Data,0.7107083685696125,99.28929209709167
+194,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A132.5.jpg,Medium Risk,Clean,No Exif Data,3.0003631487488747,96.99963331222534
+195,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A133.1.jpg,Medium Risk,Clean,No Exif Data,77.99369096755981,22.006314992904663
+196,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A133.2.jpg,Medium Risk,Clean,No Exif Data,98.71783256530762,1.282169669866562
+197,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A133.3.jpg,Medium Risk,Clean,No Exif Data,96.96335196495056,3.036644123494625
+198,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A133.4.jpg,Medium Risk,Clean,No Exif Data,11.982826888561249,88.01717758178711
+199,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A133.5.jpg,Medium Risk,Clean,No Exif Data,0.0005069818143965676,99.99948740005493
+200,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A134.1.jpg,Medium Risk,With watermark,No Exif Data,35.6003075838089,64.39969539642334
+201,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A134.2.jpg,Medium Risk,With watermark,No Exif Data,0.010698105324991047,99.98929500579834
+202,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A134.3.jpg,Medium Risk,With watermark,No Exif Data,99.80930685997009,0.19068669062107801
+203,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A134.4.jpg,Medium Risk,With watermark,No Exif Data,0.0002531718109821668,99.99974966049194
+204,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A134.5.jpg,Medium Risk,Clean,No Exif Data,0.01874830777524039,99.98125433921814
+205,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A135.1.jpg,Medium Risk,Clean,No Exif Data,0.010578384535619989,99.98942613601685
+206,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A135.2.jpg,Medium Risk,With watermark,No Exif Data,26.294133067131042,73.7058699131012
+207,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A135.3.jpg,Medium Risk,With watermark,No Exif Data,32.53166675567627,67.46832728385925
+208,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A135.4.jpg,Medium Risk,With watermark,No Exif Data,0.004753763278131373,99.99524354934692
+209,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A135.5.jpg,Medium Risk,Clean,No Exif Data,2.6479591497263755e-05,99.99997615814209
+210,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A136.1.jpg,Medium Risk,Clean,No Exif Data,0.0009509846677246969,99.9990463256836
+211,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A136.2.jpg,Medium Risk,With watermark,No Exif Data,26.294133067131042,73.7058699131012
+212,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A136.3.jpg,Medium Risk,With watermark,No Exif Data,32.53166675567627,67.46832728385925
+213,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A136.4.jpg,Medium Risk,With watermark,No Exif Data,0.004753763278131373,99.99524354934692
+214,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A136.5.jpg,Medium Risk,Clean,No Exif Data,0.01874830777524039,99.98125433921814
+215,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A137.1.jpg,Medium Risk,Clean,No Exif Data,0.2582397311925888,99.74175691604614
+216,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A137.2.jpg,Medium Risk,Clean,No Exif Data,52.77004837989807,47.22994863986969
+217,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A137.3.jpg,Medium Risk,With watermark,No Exif Data,0.04529932630248368,99.95469450950623
+218,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A137.4.jpg,Medium Risk,Clean,No Exif Data,99.43199157714844,0.5680030677467585
+219,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A137.5.jpg,Medium Risk,Clean,No Exif Data,99.95638728141785,0.04361383034847677
+220,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A138.1.jpg,Medium Risk,Clean,No Exif Data,0.5090088117867708,99.4909942150116
+221,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A138.2.jpg,Medium Risk,Clean,No Exif Data,0.1297866110689938,99.87021684646606
+222,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A138.3.jpg,Medium Risk,Clean,No Exif Data,0.11962148128077388,99.88037347793579
+223,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A138.4.jpg,Medium Risk,Clean,No Exif Data,30.110812187194824,69.8891818523407
+224,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A138.5.jpg,Medium Risk,Clean,No Exif Data,0.0006772563210688531,99.99932050704956
+225,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A139.1.jpg,Medium Risk,With watermark,No Exif Data,99.7100293636322,0.2899634884670377
+226,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A139.2.jpg,Medium Risk,With watermark,No Exif Data,67.97520518302917,32.024797797203064
+227,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A139.3.jpg,Medium Risk,With watermark,No Exif Data,0.0002531718109821668,99.99974966049194
+228,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A139.4.jpg,Medium Risk,With watermark,No Exif Data,0.010698105324991047,99.98929500579834
+229,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A139.5.jpg,Medium Risk,Clean,No Exif Data,0.01874830777524039,99.98125433921814
+230,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A14.1.jpg,Medium Risk,Clean,No Exif Data,99.9883770942688,0.011616654228419065
+231,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A14.2.jpg,Medium Risk,Clean,No Exif Data,96.93068265914917,3.0693206936120987
+232,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A14.3.jpg,Medium Risk,Clean,No Exif Data,97.32087850570679,2.679118327796459
+233,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A14.4.jpg,Medium Risk,Clean,No Exif Data,97.49541878700256,2.5045888498425484
+234,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A14.5.jpg,Medium Risk,Clean,No Exif Data,92.95811057090759,7.04188272356987
+235,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A140.1.jpg,Medium Risk,With watermark,No Exif Data,1.0517286136746407,98.94827604293823
+236,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A140.2.jpg,Medium Risk,With watermark,No Exif Data,32.53166675567627,67.46832728385925
+237,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A140.3.jpg,Medium Risk,With watermark,No Exif Data,0.004753763278131373,99.99524354934692
+238,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A140.4.jpg,Medium Risk,Clean,No Exif Data,0.01874830777524039,99.98125433921814
+239,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A140.5.jpg,Medium Risk,Clean,No Exif Data,2.6479591497263755e-05,99.99997615814209
+240,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A141.1.jpg,Medium Risk,Clean,No Exif Data,99.99973773956299,0.00026479567623027833
+241,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A141.2.jpg,Medium Risk,Clean,No Exif Data,99.69480633735657,0.30519221909344196
+242,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A141.3.jpg,Medium Risk,With watermark,No Exif Data,2.85097996766126e-05,99.99997615814209
+243,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A141.4.jpg,Medium Risk,Clean,No Exif Data,99.99998807907104,1.1047836778743658e-05
+244,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A141.5.jpg,Medium Risk,Clean,No Exif Data,99.99972581863403,0.00027683340704243165
+245,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A142.1.jpg,Medium Risk,Clean,No Exif Data,99.99724626541138,0.0027565223717829213
+246,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A142.2.jpg,Medium Risk,Clean,No Exif Data,99.69480633735657,0.30519221909344196
+247,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A142.3.jpg,Medium Risk,With watermark,No Exif Data,2.85097996766126e-05,99.99997615814209
+248,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A142.4.jpg,Medium Risk,Clean,No Exif Data,99.99998807907104,1.1047836778743658e-05
+249,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A142.5.jpg,Medium Risk,Clean,No Exif Data,99.99979734420776,0.00019904500732081942
+250,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A143.1.jpg,Medium Risk,Clean,No Exif Data,0.1261790981516242,99.87382292747498
+251,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A143.2.jpg,Medium Risk,Clean,No Exif Data,1.8566595390439034,98.14334511756897
+252,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A143.3.jpg,Medium Risk,Clean,No Exif Data,0.2497261157259345,99.75027441978455
+253,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A143.4.jpg,Medium Risk,Clean,No Exif Data,0.0393141177482903,99.96069073677063
+254,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A143.5.jpg,Medium Risk,Clean,No Exif Data,1.997198536992073,98.00280332565308
+255,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A144.1.jpg,Medium Risk,With watermark,No Exif Data,99.97749924659729,0.02250199468107894
+256,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A144.2.jpg,Medium Risk,Clean,No Exif Data,94.8637306690216,5.1362644881010056
+257,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A144.3.jpg,Medium Risk,Clean,No Exif Data,99.99759197235107,0.0024042394215939566
+258,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A144.4.jpg,Medium Risk,Clean,No Exif Data,99.99953508377075,0.00045955443965794984
+259,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A144.5.jpg,Medium Risk,Clean,No Exif Data,99.99990463256836,9.63214120019984e-05
+260,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A145.1.jpg,Medium Risk,With watermark,No Exif Data,99.99319314956665,0.0068024834035895765
+261,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A145.2.jpg,Medium Risk,Clean,No Exif Data,98.63834381103516,1.3616543263196945
+262,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A145.3.jpg,Medium Risk,Clean,No Exif Data,57.579249143600464,42.4207478761673
+263,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A145.4.jpg,Medium Risk,Clean,No Exif Data,99.99953508377075,0.00045955443965794984
+264,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A145.5.jpg,Medium Risk,Clean,No Exif Data,99.99990463256836,9.63214120019984e-05
+265,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A146.1.jpg,Medium Risk,Clean,No Exif Data,0.7090937346220016,99.29090738296509
+266,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A146.2.jpg,Medium Risk,Clean,No Exif Data,94.8637306690216,5.1362644881010056
+267,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A146.3.jpg,Medium Risk,With watermark,No Exif Data,99.97866749763489,0.021328024740796536
+268,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A146.4.jpg,Medium Risk,Clean,No Exif Data,99.99759197235107,0.0024042394215939566
+269,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A146.5.jpg,Medium Risk,Clean,No Exif Data,99.99953508377075,0.00045955443965794984
+270,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A147.1.jpg,Medium Risk,Clean,No Exif Data,99.7657299041748,0.2342647174373269
+271,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A147.2.jpg,Medium Risk,Clean,No Exif Data,99.99470710754395,0.005292451169225387
+272,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A147.3.jpg,Medium Risk,Clean,No Exif Data,99.99915361404419,0.0008488123057759367
+273,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A147.4.jpg,Medium Risk,With watermark,No Exif Data,3.441716730594635,96.55828475952148
+274,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A147.5.jpg,Medium Risk,Clean,No Exif Data,96.3018536567688,3.698146715760231
+275,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A148.1.jpg,Medium Risk,Clean,No Exif Data,2.9296986758708954,97.07030653953552
+276,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A148.2.jpg,Medium Risk,Clean,No Exif Data,94.8637306690216,5.1362644881010056
+277,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A148.3.jpg,Medium Risk,With watermark,No Exif Data,99.97866749763489,0.021328024740796536
+278,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A148.4.jpg,Medium Risk,Clean,No Exif Data,99.99759197235107,0.0024042394215939566
+279,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A148.5.jpg,Medium Risk,Clean,No Exif Data,99.99953508377075,0.00045955443965794984
+280,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A149.1.jpg,Medium Risk,With watermark,No Exif Data,4.382962048854466e-08,100.0
+281,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A149.2.jpg,Medium Risk,With watermark,No Exif Data,99.00473952293396,0.9952597320079803
+282,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A149.3.jpg,Medium Risk,With watermark,No Exif Data,0.20042562391608953,99.79957342147827
+283,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A149.4.jpg,Medium Risk,With watermark,No Exif Data,99.56814050674438,0.43185241520404816
+284,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A149.5.jpg,Medium Risk,With watermark,No Exif Data,96.67778611183167,3.322206810116768
+285,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A15.1.jpg,Medium Risk,With watermark,No Exif Data,82.80377388000488,17.196224629878998
+286,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A15.2.jpg,Medium Risk,With watermark,No Exif Data,87.7054214477539,12.294574081897736
+287,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A15.3.jpg,Medium Risk,With watermark,No Exif Data,98.64951372146606,1.3504880480468273
+288,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A15.4.jpg,Medium Risk,With watermark,No Exif Data,48.38876724243164,51.61123871803284
+289,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A15.5.jpg,Medium Risk,With watermark,No Exif Data,94.28479671478271,5.715206637978554
+290,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A150.1.jpg,Medium Risk,With watermark,No Exif Data,99.99988079071045,0.00012160381857029279
+291,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A150.2.jpg,Medium Risk,With watermark,No Exif Data,0.0016869884348125197,99.99830722808838
+292,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A150.3.jpg,Medium Risk,With watermark,No Exif Data,42.733874917030334,57.26612210273743
+293,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A150.4.jpg,Medium Risk,With watermark,No Exif Data,12.665057182312012,87.33494281768799
+294,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A150.5.jpg,Medium Risk,Clean,No Exif Data,0.005853028051205911,99.99414682388306
+295,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A151.1.jpg,Medium Risk,Clean,No Exif Data,0.014395423932000995,99.98559951782227
+296,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A151.2.jpg,Medium Risk,Clean,No Exif Data,7.651050388813019,92.34894514083862
+297,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A151.3.jpg,Medium Risk,Clean,No Exif Data,0.11988424230366945,99.88011121749878
+298,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A151.4.jpg,Medium Risk,Clean,No Exif Data,3.9386115968227386,96.06139063835144
+299,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A151.5.jpg,Medium Risk,Clean,No Exif Data,0.02081917191389948,99.97918009757996
+300,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A152.1.jpg,Medium Risk,Clean,No Exif Data,2.3142628371715546,97.68573045730591
+301,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A152.2.jpg,Medium Risk,Clean,No Exif Data,78.68747115135193,21.312527358531952
+302,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A152.3.jpg,Medium Risk,Clean,No Exif Data,13.483701646327972,86.51629686355591
+303,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A152.4.jpg,Medium Risk,Clean,No Exif Data,12.56297081708908,87.4370276927948
+304,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A152.5.jpg,Medium Risk,Clean,No Exif Data,0.37274700589478016,99.62725639343262
+305,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A153.1.jpg,Medium Risk,Clean,No Exif Data,6.762780249118805,93.23722124099731
+306,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A153.2.jpg,Medium Risk,Clean,No Exif Data,0.03482282627373934,99.96517896652222
+307,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A153.3.jpg,Medium Risk,Clean,No Exif Data,7.651050388813019,92.34894514083862
+308,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A153.4.jpg,Medium Risk,Clean,No Exif Data,0.11988424230366945,99.88011121749878
+309,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A153.5.jpg,Medium Risk,Clean,No Exif Data,3.9386115968227386,96.06139063835144
+310,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A154.1.jpg,Medium Risk,Clean,No Exif Data,6.762780249118805,93.23722124099731
+311,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A154.2.jpg,Medium Risk,Clean,No Exif Data,0.03482282627373934,99.96517896652222
+312,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A154.3.jpg,Medium Risk,Clean,No Exif Data,7.651050388813019,92.34894514083862
+313,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A154.4.jpg,Medium Risk,Clean,No Exif Data,0.11988424230366945,99.88011121749878
+314,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A154.5.jpg,Medium Risk,Clean,No Exif Data,3.9386115968227386,96.06139063835144
+315,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A155.1.jpg,Medium Risk,With watermark,No Exif Data,0.004694437302532606,99.9953031539917
+316,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A155.2.jpg,Medium Risk,Clean,No Exif Data,55.99943399429321,44.00056600570679
+317,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A155.3.jpg,Medium Risk,Clean,No Exif Data,48.826390504837036,51.17361545562744
+318,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A155.4.jpg,Medium Risk,Clean,No Exif Data,76.97768807411194,23.02231192588806
+319,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A155.5.jpg,Medium Risk,Clean,No Exif Data,0.6326276808977127,99.36736822128296
+320,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A156.1.jpg,Medium Risk,Clean,No Exif Data,0.029456563061103225,99.97053742408752
+321,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A156.2.jpg,Medium Risk,Clean,No Exif Data,49.35060143470764,50.64939260482788
+322,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A156.3.jpg,Medium Risk,Clean,No Exif Data,78.68747115135193,21.312527358531952
+323,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A156.4.jpg,Medium Risk,Clean,No Exif Data,13.483701646327972,86.51629686355591
+324,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A156.5.jpg,Medium Risk,Clean,No Exif Data,12.56297081708908,87.4370276927948
+325,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A157.1.jpg,Medium Risk,Clean,No Exif Data,99.65413212776184,0.34586405381560326
+326,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A157.2.jpg,Medium Risk,Clean,No Exif Data,99.99982118606567,0.0001744436758599477
+327,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A157.3.jpg,Medium Risk,Clean,No Exif Data,19.619454443454742,80.38054704666138
+328,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A157.4.jpg,Medium Risk,Clean,No Exif Data,0.2601926913484931,99.73981380462646
+329,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A157.5.jpg,Medium Risk,Clean,No Exif Data,90.34263491630554,9.657365828752518
+330,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A158.1.jpg,Medium Risk,Clean,No Exif Data,99.32025671005249,0.6797376088798046
+331,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A158.2.jpg,Medium Risk,With watermark,No Exif Data,0.00010018823104473995,99.99990463256836
+332,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A158.3.jpg,Medium Risk,Clean,No Exif Data,35.96847653388977,64.03151750564575
+333,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A158.4.jpg,Medium Risk,Clean,No Exif Data,97.52253890037537,2.477461099624634
+334,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A158.5.jpg,Medium Risk,Clean,No Exif Data,26.387539505958557,73.6124575138092
+335,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A159.1.jpg,Medium Risk,Clean,No Exif Data,97.0253050327301,2.974691428244114
+336,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A159.2.jpg,Medium Risk,Clean,No Exif Data,2.1273305639624596,97.87267446517944
+337,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A159.3.jpg,Medium Risk,Clean,No Exif Data,99.99982118606567,0.0001776359113137005
+338,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A159.4.jpg,Medium Risk,Clean,No Exif Data,28.249162435531616,71.75083756446838
+339,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A159.5.jpg,Medium Risk,With watermark,No Exif Data,99.99690055847168,0.0031021820177556947
+340,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A16.1.jpg,Medium Risk,Clean,No Exif Data,94.12855505943298,5.871446430683136
+341,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A16.2.jpg,Medium Risk,Clean,No Exif Data,97.32087850570679,2.679118327796459
+342,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A16.3.jpg,Medium Risk,Clean,No Exif Data,97.49541878700256,2.5045888498425484
+343,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A16.4.jpg,Medium Risk,Clean,No Exif Data,92.95811057090759,7.04188272356987
+344,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A16.5.jpg,Medium Risk,Clean,No Exif Data,99.98297691345215,0.017017377831507474
+345,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A160.1.jpg,Medium Risk,With watermark,No Exif Data,0.03689438453875482,99.96310472488403
+346,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A160.2.jpg,Medium Risk,With watermark,No Exif Data,0.0001709732487142901,99.99983310699463
+347,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A160.3.jpg,Medium Risk,Clean,No Exif Data,1.9463624312265893e-05,99.99997615814209
+348,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A160.4.jpg,Medium Risk,Clean,No Exif Data,99.61651563644409,0.38348142988979816
+349,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A160.5.jpg,Medium Risk,Clean,No Exif Data,99.99184608459473,0.008148047345457599
+350,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A161.1.jpg,Medium Risk,With watermark,No Exif Data,0.02637165889609605,99.97362494468689
+351,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A161.2.jpg,Medium Risk,Clean,No Exif Data,99.9177634716034,0.08223572513088584
+352,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A161.3.jpg,Medium Risk,Clean,No Exif Data,96.46444320678711,3.5355553030967712
+353,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A161.4.jpg,Medium Risk,Clean,No Exif Data,71.81417346000671,28.185823559761047
+354,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A161.5.jpg,Medium Risk,Clean,No Exif Data,98.82439374923706,1.1756069026887417
+355,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A162.1.jpg,Medium Risk,Clean,No Exif Data,94.49827671051025,5.501726269721985
+356,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A162.2.jpg,Medium Risk,Clean,No Exif Data,99.9177634716034,0.08223572513088584
+357,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A162.3.jpg,Medium Risk,Clean,No Exif Data,71.81417346000671,28.185823559761047
+358,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A162.4.jpg,Medium Risk,Clean,No Exif Data,98.82439374923706,1.1756069026887417
+359,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A162.5.jpg,Medium Risk,Clean,No Exif Data,98.36357235908508,1.6364248469471931
+360,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A163.1.jpg,Medium Risk,Clean,No Exif Data,99.99998807907104,7.002222446317319e-06
+361,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A163.2.jpg,Medium Risk,Clean,No Exif Data,99.99731779098511,0.002685637264221441
+362,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A163.3.jpg,Medium Risk,With watermark,No Exif Data,0.0034588469134178013,99.99654293060303
+363,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A163.4.jpg,Medium Risk,Clean,No Exif Data,99.55258965492249,0.4474057350307703
+364,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A163.5.jpg,Medium Risk,Clean,No Exif Data,91.41687154769897,8.583131432533264
+365,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A164.1.jpg,Medium Risk,Clean,No Exif Data,0.12757418444380164,99.87242817878723
+366,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A164.2.jpg,Medium Risk,Clean,No Exif Data,0.40826471522450447,99.59173798561096
+367,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A164.3.jpg,Medium Risk,Clean,No Exif Data,8.324238657951355,91.6757583618164
+368,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A164.4.jpg,Medium Risk,Clean,No Exif Data,0.7107083685696125,99.28929209709167
+369,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A164.5.jpg,Medium Risk,Clean,No Exif Data,3.0003631487488747,96.99963331222534
+370,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A165.1.jpg,Medium Risk,Clean,No Exif Data,2.603801339864731,97.39620089530945
+371,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A165.2.jpg,Medium Risk,Clean,No Exif Data,79.1856586933136,20.814338326454163
+372,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A165.3.jpg,Medium Risk,Clean,No Exif Data,91.09042286872864,8.90958309173584
+373,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A165.4.jpg,Medium Risk,Clean,No Exif Data,0.024594308342784643,99.9754011631012
+374,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A165.5.jpg,Medium Risk,Clean,No Exif Data,0.40030302479863167,99.59969520568848
+375,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A166.1.jpg,Medium Risk,Clean,No Exif Data,85.73659062385559,14.263410866260529
+376,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A166.2.jpg,Medium Risk,Clean,No Exif Data,0.024594308342784643,99.9754011631012
+377,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A166.3.jpg,Medium Risk,Clean,No Exif Data,0.40030302479863167,99.59969520568848
+378,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A166.4.jpg,Medium Risk,Clean,No Exif Data,99.99783039093018,0.0021691314032068476
+379,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A166.5.jpg,Medium Risk,Clean,No Exif Data,99.8141884803772,0.18580571049824357
+380,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A167.1.jpg,Medium Risk,Clean,No Exif Data,99.98493194580078,0.015067886852193624
+381,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A167.2.jpg,Medium Risk,Clean,No Exif Data,99.8141884803772,0.18580571049824357
+382,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A167.3.jpg,Medium Risk,Clean,No Exif Data,99.06704425811768,0.9329581633210182
+383,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A167.4.jpg,Medium Risk,Clean,No Exif Data,3.591454029083252,96.40854597091675
+384,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A167.5.jpg,Medium Risk,Clean,No Exif Data,2.558009137842987e-07,100.0
+385,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A168.1.jpg,Medium Risk,Clean,No Exif Data,0.8434955962002277,99.15651082992554
+386,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A168.2.jpg,Medium Risk,Clean,No Exif Data,3.0003631487488747,96.99963331222534
+387,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A168.3.jpg,Medium Risk,Clean,No Exif Data,22.585467994213104,77.41453647613525
+388,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A168.4.jpg,Medium Risk,Clean,No Exif Data,3.2170958817005157,96.78290486335754
+389,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A168.5.jpg,Medium Risk,Clean,No Exif Data,79.1856586933136,20.814338326454163
+390,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A169.1.jpg,Medium Risk,Clean,No Exif Data,99.98493194580078,0.015067886852193624
+391,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A169.2.jpg,Medium Risk,Clean,No Exif Data,99.8141884803772,0.18580571049824357
+392,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A169.3.jpg,Medium Risk,Clean,No Exif Data,99.06704425811768,0.9329581633210182
+393,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A169.4.jpg,Medium Risk,Clean,No Exif Data,3.591454029083252,96.40854597091675
+394,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A169.5.jpg,Medium Risk,Clean,No Exif Data,2.558009137842987e-07,100.0
+395,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A17.1.jpg,Medium Risk,Clean,No Exif Data,1.1344578117132187,98.86554479598999
+396,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A17.2.jpg,Medium Risk,Clean,No Exif Data,0.024387122539337724,99.97561573982239
+397,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A17.3.jpg,Medium Risk,Clean,No Exif Data,0.05275377188809216,99.9472439289093
+398,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A17.4.jpg,Medium Risk,Clean,No Exif Data,6.4873069524765015,93.51269006729126
+399,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A17.5.jpg,Medium Risk,Clean,No Exif Data,41.551464796066284,58.44852924346924
+400,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A170.1.jpg,Medium Risk,Clean,No Exif Data,0.8434955962002277,99.15651082992554
+401,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A170.2.jpg,Medium Risk,Clean,No Exif Data,3.0003631487488747,96.99963331222534
+402,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A170.3.jpg,Medium Risk,Clean,No Exif Data,22.585467994213104,77.41453647613525
+403,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A170.4.jpg,Medium Risk,Clean,No Exif Data,3.2170958817005157,96.78290486335754
+404,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A170.5.jpg,Medium Risk,Clean,No Exif Data,79.1856586933136,20.814338326454163
+405,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A171.1.jpg,Medium Risk,Clean,No Exif Data,1.2630299665033817,98.736971616745
+406,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A171.2.jpg,Medium Risk,Clean,No Exif Data,2.9218368232250214,97.0781683921814
+407,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A171.3.jpg,Medium Risk,Clean,No Exif Data,5.860224366188049,94.13977265357971
+408,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A171.4.jpg,Medium Risk,Clean,No Exif Data,0.003042576827283483,99.99696016311646
+409,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A171.5.jpg,Medium Risk,Clean,No Exif Data,1.9494181498885155,98.05058240890503
+410,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A172.1.jpg,Medium Risk,Clean,No Exif Data,1.0637140832841396,98.9362895488739
+411,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A172.2.jpg,Medium Risk,Clean,No Exif Data,22.585467994213104,77.41453647613525
+412,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A172.3.jpg,Medium Risk,Clean,No Exif Data,3.2170958817005157,96.78290486335754
+413,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A172.4.jpg,Medium Risk,Clean,No Exif Data,79.1856586933136,20.814338326454163
+414,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A172.5.jpg,Medium Risk,Clean,No Exif Data,91.09042286872864,8.90958309173584
+415,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A173.1.jpg,Medium Risk,Clean,No Exif Data,85.73659062385559,14.263410866260529
+416,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A173.2.jpg,Medium Risk,Clean,No Exif Data,0.024594308342784643,99.9754011631012
+417,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A173.3.jpg,Medium Risk,Clean,No Exif Data,0.40030302479863167,99.59969520568848
+418,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A173.4.jpg,Medium Risk,Clean,No Exif Data,99.99783039093018,0.0021691314032068476
+419,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A173.5.jpg,Medium Risk,Clean,No Exif Data,99.8141884803772,0.18580571049824357
+420,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A174.1.jpg,Medium Risk,Clean,No Exif Data,0.010143038525711745,99.98985528945923
+421,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A174.2.jpg,Medium Risk,Clean,No Exif Data,3.396080806851387,96.60391807556152
+422,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A174.3.jpg,Medium Risk,Clean,No Exif Data,0.40826471522450447,99.59173798561096
+423,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A174.4.jpg,Medium Risk,Clean,No Exif Data,8.324238657951355,91.6757583618164
+424,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A174.5.jpg,Medium Risk,Clean,No Exif Data,0.7107083685696125,99.28929209709167
+425,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A175.1.jpg,Medium Risk,Clean,No Exif Data,0.014395423932000995,99.98559951782227
+426,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A175.2.jpg,Medium Risk,Clean,No Exif Data,7.651050388813019,92.34894514083862
+427,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A175.3.jpg,Medium Risk,Clean,No Exif Data,0.11988424230366945,99.88011121749878
+428,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A175.4.jpg,Medium Risk,Clean,No Exif Data,3.9386115968227386,96.06139063835144
+429,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A175.5.jpg,Medium Risk,Clean,No Exif Data,0.02081917191389948,99.97918009757996
+430,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A176.1.jpg,Medium Risk,Clean,No Exif Data,17.975838482379913,82.0241630077362
+431,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A176.2.jpg,Medium Risk,Clean,No Exif Data,84.84999537467957,15.150009095668793
+432,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A176.3.jpg,Medium Risk,Clean,No Exif Data,99.51916933059692,0.48083607107400894
+433,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A176.4.jpg,Medium Risk,Clean,No Exif Data,96.5347945690155,3.465212881565094
+434,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A176.5.jpg,Medium Risk,Clean,No Exif Data,0.1406898838467896,99.85930323600769
+435,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A177.1.jpg,Medium Risk,Clean,No Exif Data,0.032558670500293374,99.96744394302368
+436,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A177.2.jpg,Medium Risk,Clean,No Exif Data,9.284161776304245,90.7158374786377
+437,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A177.3.jpg,Medium Risk,Clean,No Exif Data,1.6011904925107956,98.3988106250763
+438,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A177.4.jpg,Medium Risk,Clean,No Exif Data,84.84999537467957,15.150009095668793
+439,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A177.5.jpg,Medium Risk,Clean,No Exif Data,99.51916933059692,0.48083607107400894
+440,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A178.1.jpg,Medium Risk,Clean,No Exif Data,0.032558670500293374,99.96744394302368
+441,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A178.2.jpg,Medium Risk,Clean,No Exif Data,9.284161776304245,90.7158374786377
+442,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A178.3.jpg,Medium Risk,Clean,No Exif Data,1.6011904925107956,98.3988106250763
+443,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A178.4.jpg,Medium Risk,Clean,No Exif Data,84.84999537467957,15.150009095668793
+444,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A178.5.jpg,Medium Risk,Clean,No Exif Data,99.51916933059692,0.48083607107400894
+445,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A179.1.jpg,Medium Risk,Clean,No Exif Data,0.9458908811211586,99.05410408973694
+446,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A179.2.jpg,Medium Risk,Clean,No Exif Data,0.2857509767636657,99.7142493724823
+447,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A179.3.jpg,Medium Risk,Clean,No Exif Data,99.92984533309937,0.07015888695605099
+448,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A179.4.jpg,Medium Risk,Clean,No Exif Data,48.02928268909454,51.97070837020874
+449,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A179.5.jpg,Medium Risk,Clean,No Exif Data,14.148320257663727,85.85168123245239
+450,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A18.1.jpg,Medium Risk,Clean,No Exif Data,99.9995231628418,0.0004746321792481467
+451,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A18.2.jpg,Medium Risk,Clean,No Exif Data,98.67859482765198,1.3214114122092724
+452,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A18.3.jpg,Medium Risk,Clean,No Exif Data,62.30018734931946,37.69981265068054
+453,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A18.4.jpg,Medium Risk,Clean,No Exif Data,0.01758624130161479,99.98241066932678
+454,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A18.5.jpg,Medium Risk,Clean,No Exif Data,99.99638795852661,0.0036077639379072934
+455,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A180.1.jpg,Medium Risk,Clean,No Exif Data,0.7984462194144726,99.20154809951782
+456,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A180.2.jpg,Medium Risk,Clean,No Exif Data,1.6011904925107956,98.3988106250763
+457,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A180.3.jpg,Medium Risk,Clean,No Exif Data,84.84999537467957,15.150009095668793
+458,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A180.4.jpg,Medium Risk,Clean,No Exif Data,99.51916933059692,0.48083607107400894
+459,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A180.5.jpg,Medium Risk,Clean,No Exif Data,96.5347945690155,3.465212881565094
+460,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A181.1.jpg,Medium Risk,Clean,No Exif Data,0.43442752212285995,99.56557750701904
+461,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A181.2.jpg,Medium Risk,Clean,No Exif Data,3.9386115968227386,96.06139063835144
+462,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A181.3.jpg,Medium Risk,Clean,No Exif Data,0.02081917191389948,99.97918009757996
+463,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A181.4.jpg,Medium Risk,Clean,No Exif Data,0.4340742714703083,99.56592321395874
+464,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A181.5.jpg,Medium Risk,Clean,No Exif Data,49.272170662879944,50.727832317352295
+465,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A182.1.jpg,Medium Risk,Clean,No Exif Data,0.010880389891099185,99.98911619186401
+466,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A182.2.jpg,Medium Risk,Clean,No Exif Data,0.4340742714703083,99.56592321395874
+467,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A182.3.jpg,Medium Risk,Clean,No Exif Data,49.272170662879944,50.727832317352295
+468,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A182.4.jpg,Medium Risk,Clean,No Exif Data,98.831045627594,1.1689539067447186
+469,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A182.5.jpg,Medium Risk,Clean,No Exif Data,99.99910593032837,0.0008949454240791965
+470,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A183.1.jpg,Medium Risk,Clean,No Exif Data,2.3142628371715546,97.68573045730591
+471,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A183.2.jpg,Medium Risk,Clean,No Exif Data,78.68747115135193,21.312527358531952
+472,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A183.3.jpg,Medium Risk,Clean,No Exif Data,13.483701646327972,86.51629686355591
+473,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A183.4.jpg,Medium Risk,Clean,No Exif Data,12.56297081708908,87.4370276927948
+474,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A183.5.jpg,Medium Risk,Clean,No Exif Data,0.37274700589478016,99.62725639343262
+475,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A184.1.jpg,Medium Risk,Clean,No Exif Data,0.43442752212285995,99.56557750701904
+476,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A184.2.jpg,Medium Risk,Clean,No Exif Data,3.9386115968227386,96.06139063835144
+477,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A184.3.jpg,Medium Risk,Clean,No Exif Data,0.02081917191389948,99.97918009757996
+478,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A184.4.jpg,Medium Risk,Clean,No Exif Data,0.4340742714703083,99.56592321395874
+479,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A184.5.jpg,Medium Risk,Clean,No Exif Data,49.272170662879944,50.727832317352295
+480,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A185.1.jpg,Medium Risk,Clean,No Exif Data,0.7573595736175776,99.24263954162598
+481,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A185.2.jpg,Medium Risk,Clean,No Exif Data,0.11988424230366945,99.88011121749878
+482,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A185.3.jpg,Medium Risk,Clean,No Exif Data,3.9386115968227386,96.06139063835144
+483,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A185.4.jpg,Medium Risk,Clean,No Exif Data,0.02081917191389948,99.97918009757996
+484,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A185.5.jpg,Medium Risk,Clean,No Exif Data,0.4340742714703083,99.56592321395874
+485,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A186.1.jpg,Medium Risk,Clean,No Exif Data,2.3142628371715546,97.68573045730591
+486,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A186.2.jpg,Medium Risk,Clean,No Exif Data,78.68747115135193,21.312527358531952
+487,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A186.3.jpg,Medium Risk,Clean,No Exif Data,13.483701646327972,86.51629686355591
+488,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A186.4.jpg,Medium Risk,Clean,No Exif Data,12.56297081708908,87.4370276927948
+489,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A186.5.jpg,Medium Risk,Clean,No Exif Data,0.37274700589478016,99.62725639343262
+490,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A187.1.jpg,Medium Risk,Clean,No Exif Data,93.36071014404297,6.639294326305389
+491,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A187.2.jpg,Medium Risk,Clean,No Exif Data,99.99910593032837,0.0008949454240791965
+492,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A187.3.jpg,Medium Risk,Clean,No Exif Data,99.99829530715942,0.0017098163880291395
+493,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A187.4.jpg,Medium Risk,Clean,No Exif Data,99.41105246543884,0.5889415740966797
+494,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A187.5.jpg,Medium Risk,Clean,No Exif Data,98.05809259414673,1.9419128075242043
+495,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A188.1.jpg,Medium Risk,Clean,No Exif Data,0.12757418444380164,99.87242817878723
+496,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A188.2.jpg,Medium Risk,Clean,No Exif Data,0.40826471522450447,99.59173798561096
+497,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A188.3.jpg,Medium Risk,Clean,No Exif Data,8.324238657951355,91.6757583618164
+498,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A188.4.jpg,Medium Risk,Clean,No Exif Data,0.7107083685696125,99.28929209709167
+499,../../../../dataset/fraud/evaluation-dataset/copyright/exif/A188.5.jpg,Medium Risk,Clean,No Exif Data,3.0003631487488747,96.99963331222534
