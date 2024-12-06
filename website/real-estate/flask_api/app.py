@@ -13,7 +13,7 @@ CORS(app)
 simclr_model, deit_model, clip_model, clip_processor, base_cnn_model = load_models()  # Now unpacking five variables
 
 # Folder paths for images and features
-IMAGE_FOLDER = r"C:\images"
+IMAGE_FOLDER = r"dataset\image matching\training_dataset"
 SIMCLR_FEATURES_FILE = 'simclr_features.pkl'
 DEIT_FEATURES_FILE = 'deit_features.pkl'
 CLIP_FEATURES_FILE = 'clip2_features.pkl'
